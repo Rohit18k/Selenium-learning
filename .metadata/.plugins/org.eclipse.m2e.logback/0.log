@@ -66,3 +66,10 @@
 2023-11-02 11:33:58,705 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\All_Workspace\Mane-Kakade-Patil-Workspace\git-learning\src\main\resources
 2023-11-02 11:33:58,708 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-11-02 11:33:58,708 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\All_Workspace\Mane-Kakade-Patil-Workspace\git-learning\src\test\resources
+2023-11-02 12:18:49,788 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-02 12:18:49,788 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\All_Workspace\Mane-Kakade-Patil-Workspace\git-learning\src\main\resources
+2023-11-02 12:18:49,791 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-02 12:18:49,791 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\All_Workspace\Mane-Kakade-Patil-Workspace\git-learning\src\test\resources
+2023-11-02 12:19:10,636 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-11-02 12:19:10,636 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\All_Workspace\Mane-Kakade-Patil-Workspace\git-learning\src\main\resources
+2023-11-02 12:19:10,638 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
